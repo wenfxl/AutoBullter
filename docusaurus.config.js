@@ -10,7 +10,7 @@ module.exports = {
       {
         docs: {
           path: 'docs',         // 指向 docs 目录
-          routeBasePath: 'Install',   // 根目录显示文档
+          routeBasePath: '/',   // 根目录显示文档
           sidebarPath: undefined // 使用 _category_.json 自动生成侧边栏
         },
       },
