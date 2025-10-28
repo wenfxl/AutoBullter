@@ -17,7 +17,7 @@ module.exports = {
         },
       },
     ],
-  ],  
+  ],
   plugins: [
     [
       '@docusaurus/plugin-client-redirects',
@@ -30,4 +30,5 @@ module.exports = {
         ],
       },
     ],
+  ]
 };
