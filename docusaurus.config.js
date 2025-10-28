@@ -13,9 +13,6 @@ module.exports = {
           routeBasePath: '/',   // 根目录显示文档
           sidebarPath: undefined // 使用 _category_.json 自动生成侧边栏
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
       },
     ],
   ],
