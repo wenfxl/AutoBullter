@@ -9,9 +9,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: 'docs',         // 指向 docs 目录
-          routeBasePath: '/',   // 根目录显示文档
-          sidebarPath: undefined // 使用 _category_.json 自动生成侧边栏
+          path: 'docs',        // 文档目录
+          routeBasePath: '/',  // 根目录显示文档
+          sidebarPath: undefined // 自动生成侧边栏
         },
       },
     ],

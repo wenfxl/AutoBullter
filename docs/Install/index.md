@@ -1,5 +1,5 @@
 ---
-title: 轩灵自动驾驶使用教程
+title: 轩灵自动驾驶软件介绍
 sidebar_position: 1
 ---
 # 轩灵自动驾驶3.0.0
