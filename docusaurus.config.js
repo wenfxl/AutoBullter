@@ -3,6 +3,8 @@ module.exports = {
   tagline: '安装与使用指南',
   url: 'https://your-domain.com',
   baseUrl: '/',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   presets: [
     [
