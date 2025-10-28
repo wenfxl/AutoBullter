@@ -25,7 +25,7 @@ module.exports = {
         redirects: [
           {
             from: '/',           // 根路径
-            to: '/Install/index', // 重定向目标
+            to: '/Install/', // 重定向目标
           },
         ],
       },
