@@ -17,5 +17,17 @@ module.exports = {
         },
       },
     ],
-  ],
+  ],  
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/',           // 根路径
+            to: '/Install/index', // 重定向目标
+          },
+        ],
+      },
+    ],
 };
