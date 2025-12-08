@@ -67,10 +67,10 @@ QQ群：292645017
 	
 9.  如果无法开启成功。也就是卡在如下界面。那就看第10步后重新启动。
 
-	![主界面](/images/image_57.png)
+	![主界面](/images/image_58.png)
 	
 10. 开启禁用权限监控(正常启用的机型不用管这个步骤)
 
-	![主界面](/images/image_58.png)
+	![主界面](/images/image_57.png)
 	
 具体详细的开启方法，在Shizuku[软件手册](https://shizuku.rikka.app/zh-hans/guide/setup/)里也有说明。
